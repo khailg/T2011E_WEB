@@ -1,0 +1,52 @@
+.page{
+    padding-left: 180px;
+    padding-right: 180px;
+    padding-top: 30px;
+}
+.Top {
+    width: 99.25%;
+    float: left;
+    border: 1px solid #0a0c0a;
+    height: 250px;
+    background-color: #a6a9ae;
+}
+.Top img{
+    border-radius: 200px;
+    margin-top: 25px;
+    width: 200px;
+    text-align: center;
+
+}
+.Top h1{
+    margin-top: -150px;
+    text-align: center;
+
+}
+.Top h3{
+    text-align: center;
+    margin-top: 40px;
+    color: #0b4cf3;
+}
+.Bot {
+    width: 70%;
+    float: left;
+    border: 1px solid #0a0c0a;
+    padding: 20px;
+    height:900px;
+}
+.Right {
+    width: 20%;
+    float: left;
+    border: 1px solid #0a0c0a;
+    padding: 20px;
+    background-color: #ddd7d7;
+    height: 900px;
+}
+.div {
+    border: 1px solid #0a0c0a;
+
+}
+
+
+
+
