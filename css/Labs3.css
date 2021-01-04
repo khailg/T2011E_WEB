@@ -38,7 +38,6 @@
     float: left;
     border: 1px solid #0a0c0a;
     padding: 20px;
-    height:900px;
 }
 .Right {
     width: calc(100% - 884px);
@@ -46,7 +45,6 @@
     border: 1px solid #0a0c0a;
     padding: 20px;
     background-color: #ddd7d7;
-    height: 900px;
 }
 .div {
     border: 1px solid #0a0c0a;
