@@ -1,0 +1,39 @@
+
+.page{
+    width: 1000px;
+    height: 800px;
+    padding: 2px 250px;
+    border: 1px solid #090b0c;
+    background-color: #180608;
+}
+.top {
+    width: 920px;
+    height: 150px;
+    background-color: #f1ecec;
+    border: 1px solid #090b0c;
+    padding: 10px 40px;
+}
+.bot {
+    width: 570px;
+    height: 700px;
+    background-color: #e7dfdf;
+    float: left;
+    padding: 40px;
+}
+.right {
+    width: 220px;
+    height: 650px;
+    background-color: #aaaaaa;
+    float: left;
+    padding: 40px;
+}
+.text {
+    text-align: center;
+}
+.botto{
+    padding: 25px ;
+}
+.rightto {
+    padding: 25px;
+}
+

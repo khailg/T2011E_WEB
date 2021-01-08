@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    color: #fafafa;
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 400;
+    background-color: #1c1919;
+}
+.container {
+    float: none;
+    width: 1000px;
+    margin: 55px auto;
+}
+.section{
+    float: left;
+    width: 100%;
+}
+.logo {
+    float: left;
+    width: 25%;
+}
+.toplink{
+    float: right;
+    width: 67%;
+    color: #fafafa;
+}
+.toplink1{
+    float: left;
+    width: 1%;
+}
+.toplink li{
+    float: left;
+    list-style: none;
+    margin-left: 25px;
+    font-size: 10px;
+    text-transform: uppercase;
+    color: #fafafa;
+}
+.toplink1 li{
+    float: left;
+    list-style: none;
+    margin-left: 25px;
+}
+.khai1 {
+    text-align: center;
+}
+.khai1 h2{
+    font-size: 40px;
+}
+.read{
+    text-transform: uppercase;
+    padding: 15px;
+    text-align: center;
+    border: 2px solid #fefbfc;
+    width: 132px;
+    margin-left: 435px;
+}
+.container1 {
+    float: none;
+    width: 1000px;
+    margin: 200px;
+}
+.container1 img{
+    width: 250px;
+    padding: 15px;
+
+}
+.article p{
+    text-transform: uppercase;
+    padding: 15px;
+    text-align: center;
+    border: 2px solid #fefbfc;
+    width: 132px;
+    margin-left: 624px;
+}
+.logo1 a{
+    color: #fafafa;
+}
+.toplink2 a{
+    color: #fafafa;
+}
+.logo1 {
+    float: left;
+}
+.toplink2 li{
+    float: left;
+}
+

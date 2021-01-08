@@ -1,0 +1,42 @@
+* img{
+    width: 150px;
+    height: 150px;
+}
+.page {
+    text-transform: uppercase;
+    width: 700px;
+    padding: 15px 300px;
+    height: 700px;
+    background-color: #acb1ac;
+}
+.id {
+    background-color: whitesmoke;
+    color: #180608;
+    height: 50px;
+}
+.imgs {
+    float: left;
+    text-align: center;
+    font-size: 10px;
+    border: 1px solid #161313;
+    width: 150px;
+    height: 300px;
+    margin: 10px;
+}
+.text {
+    background-color: #0a0a0a;
+    color: #fafafa;
+    height: 20px;
+    font-size: 15px;
+}
+.text p {
+    margin-top: 25px;
+}
+.top{
+}
+.bot {
+}
+
+
+
+
