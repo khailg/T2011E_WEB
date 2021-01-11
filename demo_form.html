@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo Form</title>
+    <link rel="stylesheet" href="css/demo_form.css">
+</head>
+<body>
+    <form method="post" action="#">
+        <input name="firstname" type="text" required rplaceholder="Dien ho vao cay" />
+        <input name="lastname" type="text" required placeholder="Dien ten" />
+        <input name="youremail" type="email" required placeholder="Email.." />
+        <input name="pwd" type="password" placeholder="Password..." />
+        <input name="birthday" type="date" placeholder="Sinh Nhat">
+        <input name="birthday" type="time" placeholder="Gio Nhat">
+        <input name="birthday" type="week" placeholder="Thang Nhat">
+        <input name="birthday" type="number" placeholder="Tuoi ">
+        <input name="color" type="color" placeholder="mau ">
+        <input name="color" type="radio" checked value="Nam" />Nam
+        <label>
+            <input name="color" type="radio" value="Nu" />Nu
+        </label>
+        <label>
+            <input name="color" type="radio" value="Khac" />Khac<br/>
+        </label>
+        <label>
+            <input name="confirm" type="checkbox"/>Xac nhan dong y dieu khoan
+        </label>
+        <select name="city">
+            <option>Vui lòng chọn tỉnh Thành Phố</option>
+            <option value="hn">Hà Nội</option>
+            <option value="hn">Hà Nội1</option>
+            <option value="hn">Hà Nội2</option>
+            <option value="hn">Hà Nội3</option>
+            <option value="hn">Hà Nội4</option>
+        </select>
+        <textarea name="content" placeholder="Mô tả bản thân" rows="5" cols="100"></textarea>
+        <button type="submit">Submit</button>
+        <button type="reset">reset</button>
+        <button type="button">button</button>
+    </form>
+</body>
+</html>
