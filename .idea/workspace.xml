@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f773d48-f03b-4c42-bd86-d0a6806eae4c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1m99DKgaumfKKOm8207siPlevJG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\T2011E_WEB" />
+      <recent name="E:\T2011E_WEB\css" />
+      <recent name="E:\T2011E_WEB\KhaiLe\imgs" />
+      <recent name="E:\T2011E_WEB\KhaiLe" />
+      <recent name="E:\T2011E_WEB\libs\bootstrap3.4.1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\T2011E_WEB\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f773d48-f03b-4c42-bd86-d0a6806eae4c" name="Default Changelist" comment="" />
+      <created>1608894818903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608894818903</updated>
+      <workItem from="1608894820067" duration="1452000" />
+      <workItem from="1608896491193" duration="7493000" />
+      <workItem from="1608904753698" duration="1049000" />
+      <workItem from="1608947800535" duration="3682000" />
+      <workItem from="1609122819655" duration="16192000" />
+      <workItem from="1609153396779" duration="10772000" />
+      <workItem from="1609227397045" duration="7745000" />
+      <workItem from="1609293026927" duration="12539000" />
+      <workItem from="1609730709065" duration="798000" />
+      <workItem from="1609756763018" duration="13061000" />
+      <workItem from="1609902703952" duration="9727000" />
+      <workItem from="1609921602131" duration="7083000" />
+      <workItem from="1609930982315" duration="11585000" />
+      <workItem from="1609983941824" duration="3947000" />
+      <workItem from="1610004773408" duration="3761000" />
+      <workItem from="1610073941610" duration="15867000" />
+      <workItem from="1610103612654" duration="8549000" />
+      <workItem from="1610352448130" duration="614000" />
+      <workItem from="1610363124591" duration="7561000" />
+      <workItem from="1610708634326" duration="8906000" />
+      <workItem from="1610940481398" duration="17229000" />
+      <workItem from="1611115480814" duration="3278000" />
+      <workItem from="1611141365693" duration="9941000" />
+      <workItem from="1611314127351" duration="10232000" />
+      <workItem from="1611500177305" duration="600000" />
+      <workItem from="1611572596088" duration="7944000" />
+      <workItem from="1611586837703" duration="1164000" />
+      <workItem from="1611677929373" duration="697000" />
+      <workItem from="1611714183186" duration="10084000" />
+      <workItem from="1611801245868" duration="26451000" />
+      <workItem from="1611993497790" duration="1464000" />
+      <workItem from="1613991831657" duration="1437000" />
+      <workItem from="1613994162467" duration="15431000" />
+      <workItem from="1614164461097" duration="3484000" />
+      <workItem from="1614250596884" duration="302000" />
+    </task>
+    <task id="LOCAL-00001" summary="Up code lần đầu">
+      <created>1608895118531</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608895118531</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Up code lần đầu">
+      <created>1608896254626</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608896254626</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Up code lần đầu">
+      <created>1608901998642</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608901998642</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Up code lần 2">
+      <created>1608947887365</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608947887365</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Up code lần 2">
+      <created>1608947959171</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608947959171</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Up code lần 3">
+      <created>1608950881199</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608950881199</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Up code lần 3">
+      <created>1609148898621</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609148898621</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Up code lần 3">
+      <created>1609319108406</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1609319108406</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Up code lần 3">
+      <created>1609757231934</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1609757231935</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Up code lần 3">
+      <created>1609757911190</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1609757911190</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Up code lần 3">
+      <created>1609759055207</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1609759055207</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Up code lần 3">
+      <created>1609760268830</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1609760268830</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Up code lần 3">
+      <created>1609760334334</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1609760334334</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Up code lần  1">
+      <created>1610097870853</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1610097870853</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Up code lần  1">
+      <created>1610366677881</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1610366677881</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Up code lần  1">
+      <created>1614250852662</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1614250852662</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Up code lần đầu" />
+    <MESSAGE value="Up code lần 2" />
+    <MESSAGE value="Up code lần 3" />
+    <MESSAGE value="Up code lần  1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Up code lần  1" />
+  </component>
+</project>
