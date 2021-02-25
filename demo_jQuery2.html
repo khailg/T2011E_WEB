@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="libs/bootstrap3.4.1/css/bootstrap.css">
+</head>
+<body>
+<section class="col-md-12">
+    <div class="container">
+    </div>
+</section>
+<section class="col-md-12">
+    <div class="container">
+        <form action="#" method="get">
+            <div class="form-group">
+                <label>Email</label>
+                <input class="form-control" name="email" placeholder="Email" />
+            </div>
+            <div class="form-group">
+                <label>Username</label>
+                <input class="form-control" name="username" placeholder="username">
+            </div>
+        </form>
+    </div>
+</section>
+    <script src="libs/jquery/jquery-3.5.1.min.js"></script>
+    <script type="text/javascript">
+        function showOn(){
+            var lg = $(".login");
+            // lg.show();
+            // lg.fadeIn();
+            lg.slideDown();
+        }
+        function showOff() {
+            lg.hide();
+            // lg.fadeOut();
+            // lg.slideUp();
+        }
+        function showOnOff(){
+            var lg = $(".login");
+            // // lg.toggle();
+            // lg.fadeToggle(200);
+            // lg.slideToggle(200);
+        }
+        var flag = true;
+        var x = 0 ;
+        function showOnOff(){
+            var lg = $(".login");
+            if (flag){
+                x+ = 30;
+                lg.animate({
+                    "Transform" : "rotate("+x);
+                })
+            }
+
+        }
+    </script>
+</body>
+</html>

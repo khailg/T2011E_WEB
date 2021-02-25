@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo_Js</title>
+    <script src="Js/demo_js.js"></script>
+</head>
+<body>
+
+    <script type="text/javascript">
+        var x;
+        x=10;
+        x++;
+        x+=10;
+        // console.log(x);
+        x = "hello world";
+        // console.log(x);
+        var y=20;
+        var z=15;
+        console.log(x+y);
+        console.log(x+y+z);
+        var t = 18;
+        console.log("Xin chao cac ban, toi nam nay " +t+" tuoi");
+        if(t>18){
+            console.log("chuc mung ban da truong thanh");
+        }esle{
+            console.log("cam nguoi duoi 18 tuoi");
+        }
+        switch (t){
+            case  18:console.log("Chuc mung ban da truong thanh");break;
+            default:console.log("Cam nguoi duoi 18 tuoi");
+        }
+        for(var i=0;i<15;i++){
+            console.log(i);
+        }
+        var arr;
+        arr = [];
+        arr[0] = 1;
+        arr[1] = 15;
+        arr[2] = "Xin chao";
+        arr[3] = [];
+        var ar2 = [];
+        ar2.push(19);
+        ar2.push(5);
+        ar2.push("Xin chao");
+        var ar3 = [];
+        for( var i=0;i<10;i++);
+        ar3.push(i+15);
+        }
+        ar3.push(77);
+    // khai bao ham
+        function tinhtong(a,b) {
+            var c = a+b;
+            return c;
+        }
+        function inketqua(a,b) {
+            console.log(a+b);
+        }
+
+        alert("Cam tre em duoi 18 tuoi"); // void
+        confirm("Ban da chac chan 18 tuoi chua "); // tra ve true fassle
+        prompt("Nhap ten nguoi dung "); // tra ve string
+        setTimeout(function () {
+            alert("Xin chao, xuat hien sau 3s ");
+        },3000);
+    </script>
+</body>
+</html>

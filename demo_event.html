@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo event</title>
+    <link rel="stylesheet" href="css/demo_event.css">
+
+</head>
+<body>
+    <div id="box" onclick="showEvent1()">
+        <h1 id="number">0</h1>
+    </div>
+
+    <script type="text/javascript">
+        var x=0;
+        var number = document.getElementById("number")
+        function showEvent1() {
+            x++;
+            number.innerText = x;
+        }
+        function showEvent2() {
+            x--;
+            number.innerText = x;
+        }
+        // showEvent();
+        // showEvent()
+    </script>
+    <div class="col-md-12">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <form action="#" method="get">
+                        <div class="form-group">
+                            <label>Email</label>
+                            <input type="email" name="email" placeholder="Email" class="form-control"/>
+                        </div>
+                        <div class="form-group">
+                            <label>Name</label>
+                            <input type="text" name="name" placeholder="Name" class="form-control"/>
+                        </div>
+                        <div class="form-group">
+                            <button type="submit" class="btn btn-primary">Submit</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <h1>Email: <span id="txtemail"></span> </h1>
+        <h1>Name <span id="txtname"></span> </h1>
+    </div>
+    <div class="tsbt">
+        <h1>xx</h1>
+    </div>
+    <div class="tsbt1">
+        <h1>xx</h1>
+    </div>
+</body>
+</html>

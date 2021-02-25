@@ -8,3 +8,13 @@
 .box2{
     background-color: #0b4cf3;
 }
+.traitim{
+    font-size: 30px;
+    transition: color 300ms;
+}
+.traitim:hover{
+    color: red;
+}
+.facebook{
+    font-size: 30px;
+}

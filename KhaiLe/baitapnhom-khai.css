@@ -1,0 +1,52 @@
+
+.pager {
+    width: 100%;
+}
+.page-header {
+    text-align: center;
+}
+.page-header img {
+    border: 8px inset #1593b2;
+}
+.left {
+    float: left;
+    padding: 0 0 0 20px;
+}
+.center ol{
+    float: left;
+    margin-top: 0;
+}
+.center {
+    float: left;
+    margin: 0 0 0 250px;
+    text-align: center;
+}
+.right {
+    text-align: end;
+    margin: 0 20px 0 0;
+
+}
+.nivoSlider img {
+    padding: 20px;
+    width: 100%;
+    height: auto;
+}
+.imgs img{
+    float: left;
+    width: 25%;
+    height: auto;
+    padding: 20px;
+}
+.success img{
+    height: auto;
+    padding: 20px;
+    width: 80%
+}
+.success p{
+    float: right;
+    padding: 20px;
+}
+/*.success iframe {*/
+/*    padding: 20px;*/
+/*    width: 40%;*/
+
