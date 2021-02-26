@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f773d48-f03b-4c42-bd86-d0a6806eae4c" name="Default Changelist" comment="" />
+    <list default="true" id="4f773d48-f03b-4c42-bd86-d0a6806eae4c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Practical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/Practical.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/arrow_breadcrumbs.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/highlight.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/img_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/img_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/img_31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/img_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/lotto.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/print.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/sac.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/send.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/top.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/Labs2.css" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +28,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -29,7 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/imgs" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -41,11 +59,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\T2011E_WEB\imgs" />
       <recent name="E:\T2011E_WEB" />
       <recent name="E:\T2011E_WEB\css" />
       <recent name="E:\T2011E_WEB\KhaiLe\imgs" />
       <recent name="E:\T2011E_WEB\KhaiLe" />
-      <recent name="E:\T2011E_WEB\libs\bootstrap3.4.1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\T2011E_WEB\css" />
@@ -93,7 +111,8 @@
       <workItem from="1613991831657" duration="1437000" />
       <workItem from="1613994162467" duration="15431000" />
       <workItem from="1614164461097" duration="3484000" />
-      <workItem from="1614250596884" duration="2257000" />
+      <workItem from="1614250596884" duration="3135000" />
+      <workItem from="1614334625592" duration="8121000" />
     </task>
     <task id="LOCAL-00001" summary="Up code lần đầu">
       <created>1608895118531</created>
@@ -221,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614252495523</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Up code lần  2">
+      <created>1614253003872</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1614253003872</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,6 +260,7 @@
     <MESSAGE value="Up code lần 2" />
     <MESSAGE value="Up code lần 3" />
     <MESSAGE value="Up code lần  1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Up code lần  1" />
+    <MESSAGE value="Up code lần  2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Up code lần  2" />
   </component>
 </project>
